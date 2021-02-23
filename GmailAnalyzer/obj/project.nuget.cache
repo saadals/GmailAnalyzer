@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "YV2FCtn8S4fvAsedqbnejYurjNYHoJUjyfyKVK4k1NtavEVH/OD/EuvU3U8b0mFGw5bkHVhvFG6M9XwVZ8LjgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\Personal projects\\GmailAnalyzer\\GmailAnalyzer\\Analyzer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\google.apis\\1.50.0\\google.apis.1.50.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\google.apis.auth\\1.50.0\\google.apis.auth.1.50.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\google.apis.core\\1.50.0\\google.apis.core.1.50.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\google.apis.gmail.v1\\1.50.0.2235\\google.apis.gmail.v1.1.50.0.2235.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\mimekit\\2.10.1\\mimekit.2.10.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\portable.bouncycastle\\1.8.8\\portable.bouncycastle.1.8.8.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.reflection.typeextensions\\4.4.0\\system.reflection.typeextensions.4.4.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.security.cryptography.cng\\4.7.0\\system.security.cryptography.cng.4.7.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.security.cryptography.pkcs\\4.7.0\\system.security.cryptography.pkcs.4.7.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.text.encoding.codepages\\4.4.0\\system.text.encoding.codepages.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
